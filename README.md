@@ -12,18 +12,11 @@ A simple text-based adventure game in Python. Explore a cursed forest, fight mon
 1. Clone the repository:
 git clone https://github.com/yourusername/Forest-Quest-Adventure.git
 
-css
-Copy
-Edit
 2. Navigate to the project folder:
 cd Forest-Quest-Adventure
 
 3. Run the game:
 python3 game.py
-
-markdown
-Copy
-Edit
 
 ## Play:
 - Choose paths and make decisions.
